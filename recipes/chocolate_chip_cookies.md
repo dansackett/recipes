@@ -21,7 +21,7 @@ This is an allergen-free cookie recipe that actually doesn't taste like a
 
 ## Utilities
 
-- Cookie backing sheet
+- Cookie baking sheet
 - Parchment paper
 
 ## Intructions
