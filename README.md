@@ -15,6 +15,7 @@ My personal quick reference to recipes I have loved over the years.
 
 - [Canned Tuna Cakes](recipes/canned_tuna_cakes.md)
 - [Coconut Crusted Chicken Tenders](recipes/coconut_crusted_chicken_tenders.md)
+- [Chicken Salad](recipes/chicken_salad.md)
 
 ## Entrees
 
@@ -28,6 +29,9 @@ My personal quick reference to recipes I have loved over the years.
 - [Creamy Mushroom Chicken](recipes/creamy_mushroom_chicken.md)
 - [Easy Pot Roast](recipes/easy_pot_roast.md)
 - [Salmon and Hollandaise Sauce](recipes/salmon_and_hollandaise.md)
+- [Steak Kabobs](recipes/steak_kabobs.md)
+- [Shredded Barbeque Chicken](recipes/shredded_bbq_chicken.md)
+- [Asian Glazed Five Spice Pork Tenderloins](recipes/asian_pork_tenderloins.md)
 
 ## Side Dishes
 
@@ -41,12 +45,14 @@ My personal quick reference to recipes I have loved over the years.
 - [Chocolate Chip Cookies](recipes/chocolate_chip_cookies.md)
 - [Fried Honey Bananas](recipes/fried_honey_bananas.md)
 - [Double Chocolate Muffins](recipes/double_chocolate_muffins.md)
+- [Snickerdoodle Cookies](recipes/snickerdoodle_cookies.md)
 
 ## Smoothies
 
 - [Pina Colada Smoothie](recipes/pina_colada_smoothie.md)
 - [Chocolate Avocado Smoothie](recipes/chocolate_avocado_smoothie.md)
 
-## Sauces
+## Misc
 
 - [Homemade Steak Sauce](recipes/steak_sauce.md)
+- [Taco Seasoning](recipes/taco_seasoning.md)
