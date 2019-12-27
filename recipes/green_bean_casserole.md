@@ -1,4 +1,4 @@
-# Green Casserole
+# Green Bean Casserole
 
 Great holiday side.
 
