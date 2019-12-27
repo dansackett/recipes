@@ -39,6 +39,8 @@ My personal quick reference to recipes I have loved over the years.
 - [Sauteed Brussels Sprouts with bacon, capers, and lemon zest](recipes/sauteed_brussels_sprouts.md)
 - [Mashed Sweet Potatoes](recipes/mashed_sweet_potatoes.md)
 - [Mushrooms, Artichoke Hearts, and Spinach](recipes/mushroom_artichoke_spinach.md)
+- [Sweet Potato Casserole](recipes/sweet_potato_casserole.md)
+- [Green Bean Casserole](recipes/green_bean_casserole.md)
 
 ## Desserts
 
