@@ -32,6 +32,8 @@ My personal quick reference to recipes I have loved over the years.
 - [Steak Kabobs](recipes/steak_kabobs.md)
 - [Shredded Barbeque Chicken](recipes/shredded_bbq_chicken.md)
 - [Asian Glazed Five Spice Pork Tenderloins](recipes/asian_pork_tenderloins.md)
+- [Garlic Roasted Pork Shoulder](recipes/garlic_roasted_pork_shoulder.md)
+- [Tomato Basil Cod](recipes/tomato_basil_cod.md)
 
 ## Side Dishes
 
@@ -48,6 +50,8 @@ My personal quick reference to recipes I have loved over the years.
 - [Fried Honey Bananas](recipes/fried_honey_bananas.md)
 - [Double Chocolate Muffins](recipes/double_chocolate_muffins.md)
 - [Snickerdoodle Cookies](recipes/snickerdoodle_cookies.md)
+- [Mini Donuts](recipes/mini_donuts.md)
+- [Double Chocolate Cookies](recipes/double_chocolate_cookies.md)
 
 ## Smoothies
 
