@@ -8,6 +8,7 @@ My personal quick reference to recipes I have loved over the years.
 
 ## Breakfast
 
+- [Banana Bread](recipes/banana_bread.md)
 - [Banana "Pancakes"](recipes/banana_pancakes.md)
 - [Sweet Potato and Sausage Hash](recipes/sweet_potato_and_sausage_breakfast_hash.md)
 
