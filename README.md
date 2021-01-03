@@ -19,6 +19,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Canned Tuna Cakes](recipes/canned_tuna_cakes.md)
 - [Coconut Crusted Chicken Tenders](recipes/coconut_crusted_chicken_tenders.md)
 - [Chicken Salad](recipes/chicken_salad.md)
+- [Deconstructed Egg Rolls](recipes/deconstructed_egg_rolls.md)
 
 ## Entrees
 
