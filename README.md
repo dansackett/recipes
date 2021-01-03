@@ -37,6 +37,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Asian Glazed Five Spice Pork Tenderloins](recipes/asian_pork_tenderloins.md)
 - [Garlic Roasted Pork Shoulder](recipes/garlic_roasted_pork_shoulder.md)
 - [Tomato Basil Cod](recipes/tomato_basil_cod.md)
+- [Salisbury Steak](recipes/salisbury_steak.md)
 
 ## Side Dishes
 
