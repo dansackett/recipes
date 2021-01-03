@@ -39,6 +39,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Garlic Roasted Pork Shoulder](recipes/garlic_roasted_pork_shoulder.md)
 - [Tomato Basil Cod](recipes/tomato_basil_cod.md)
 - [Salisbury Steak](recipes/salisbury_steak.md)
+- [Sweet garlic chicken](recipes/sweet_garlic_chicken.md)
 
 ## Side Dishes
 
