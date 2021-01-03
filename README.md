@@ -40,6 +40,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Tomato Basil Cod](recipes/tomato_basil_cod.md)
 - [Salisbury Steak](recipes/salisbury_steak.md)
 - [Sweet garlic chicken](recipes/sweet_garlic_chicken.md)
+- [Sheet pan Greek Chicken and Veggies](recipes/sheet_pan_chicken_veggies.md)
 
 ## Side Dishes
 
