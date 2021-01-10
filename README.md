@@ -12,6 +12,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Banana "Pancakes"](recipes/banana_pancakes.md)
 - [Sweet Potato and Sausage Hash](recipes/sweet_potato_and_sausage_breakfast_hash.md)
 - [Breakfast Casserole](recipes/breakfast_casserole.md)
+- [Sunshine Hash](recipes/sunshine_hash.md)
 
 ## Lunch
 
