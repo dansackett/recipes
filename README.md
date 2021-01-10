@@ -20,6 +20,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Chicken Salad](recipes/chicken_salad.md)
 - [Deconstructed Egg Rolls](recipes/deconstructed_egg_rolls.md)
 - [Mixed Veggie Noodles with Pork](recipes/mixed_veggie_noodles_pork.md)
+- [Beef Barbacoa Bowl](recipes/beef_barbacoa_bowl.md)
 
 ## Entrees
 
