@@ -19,7 +19,7 @@ Good simple dish.
 - 1/2 cup orange juice
 - 1/2 cup coconut aminos
 - 6 tablespoons water
-- 1/4 cup honeyIntructions
+- 1/4 cup honey
 
 ## Instructions
 

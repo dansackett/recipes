@@ -42,6 +42,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Sweet garlic chicken](recipes/sweet_garlic_chicken.md)
 - [Sheet pan Greek Chicken and Veggies](recipes/sheet_pan_chicken_veggies.md)
 - [Orange Chicken and Broccoli](recipes/orange_chicken_and_broccoli.md)
+- [Chicken Soup with Roasted Veggies](recipes/chicken_soup_roasted_veggies.md)
 
 ## Side Dishes
 
