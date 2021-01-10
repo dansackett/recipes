@@ -13,6 +13,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Sweet Potato and Sausage Hash](recipes/sweet_potato_and_sausage_breakfast_hash.md)
 - [Breakfast Casserole](recipes/breakfast_casserole.md)
 - [Sunshine Hash](recipes/sunshine_hash.md)
+- [Plantain Waffles](recipes/plantain_waffles.md)
 
 ## Lunch
 
