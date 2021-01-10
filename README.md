@@ -14,6 +14,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Breakfast Casserole](recipes/breakfast_casserole.md)
 - [Sunshine Hash](recipes/sunshine_hash.md)
 - [Plantain Waffles](recipes/plantain_waffles.md)
+- [Bueberry Coconut Yogurt Parfait](recipes/blueberry_coconut_yogurt_parfait.md)
 
 ## Lunch
 
