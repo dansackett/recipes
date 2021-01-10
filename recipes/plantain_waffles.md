@@ -1,4 +1,4 @@
-# Sunshine Hash
+# Plantain Waffles
 
 Good simple waffles.
 
