@@ -48,6 +48,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Orange Chicken and Broccoli](recipes/orange_chicken_and_broccoli.md)
 - [Chicken Soup with Roasted Veggies](recipes/chicken_soup_roasted_veggies.md)
 - [Sheppards pie (healthier)](recipes/healthier_sheppards_pie.md)
+- [Chicken florentine over acorn squash](recipes/chicken_florentine_acorn_squash.md)
 
 ## Side Dishes
 
