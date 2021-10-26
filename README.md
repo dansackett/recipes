@@ -24,6 +24,7 @@ My personal quick reference to recipes I have loved over the years.
 - [Deconstructed Egg Rolls](recipes/deconstructed_egg_rolls.md)
 - [Mixed Veggie Noodles with Pork](recipes/mixed_veggie_noodles_pork.md)
 - [Beef Barbacoa Bowl](recipes/beef_barbacoa_bowl.md)
+- [Pineapple salsa stuffed burgers](recipes/pineapple_salsa_stuffed_burgers.md)
 
 ## Entrees
 
@@ -43,12 +44,13 @@ My personal quick reference to recipes I have loved over the years.
 - [Garlic Roasted Pork Shoulder](recipes/garlic_roasted_pork_shoulder.md)
 - [Tomato Basil Cod](recipes/tomato_basil_cod.md)
 - [Salisbury Steak](recipes/salisbury_steak.md)
-- [Sweet garlic chicken](recipes/sweet_garlic_chicken.md)
 - [Sheet pan Greek Chicken and Veggies](recipes/sheet_pan_chicken_veggies.md)
 - [Orange Chicken and Broccoli](recipes/orange_chicken_and_broccoli.md)
 - [Chicken Soup with Roasted Veggies](recipes/chicken_soup_roasted_veggies.md)
 - [Sheppards pie (healthier)](recipes/healthier_sheppards_pie.md)
-- [Chicken florentine over acorn squash](recipes/chicken_florentine_acorn_squash.md)
+- [Sausage and Cabbage](recipes/sausage_and_cabbage.md)
+- [Salsa Chicken Quinoa](recipes/salsa_chicken_quinoa.md)
+- [Shrimp Alfredo](recipes/shrimp_alfredo.md)
 
 ## Side Dishes
 
